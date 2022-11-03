@@ -29,7 +29,7 @@ The results for each model and their scores can be found below.
 
 ### Oversampling (Naive Random Oversampling)
 
-Insert NaiveRandomOversampling
+![NaiveRandomOversampling](https://user-images.githubusercontent.com/106631875/199625278-bd559b9d-96df-4022-8806-a33b6cd51837.png)
 
 Accuracy Score: 0.64
 Precision Score for high risk loans: 0.01
@@ -39,7 +39,7 @@ Recall (Sensitivity) Score for low risk loans: 0.65
 
 ### SMOTE Oversampling
 
-Insert Smote oversampling
+![SMOTEOversampling](https://user-images.githubusercontent.com/106631875/199625306-d3b65f54-38d8-4b86-b8ae-fff1c0c5b67b.png)
 
 Accuracy Score: 0.64
 Precision Score for high risk loans: 0.01
@@ -47,10 +47,9 @@ Precision Score for low risk loans: 1.00
 Recall (Sensitivity) Score for high risk loans: 0.63
 Recall (Sensitivity) Score for low risk loans: 0.65
 
-
 ### Undersampling
 
-Insert undersampling
+![undersampling](https://user-images.githubusercontent.com/106631875/199625358-d1f396cd-c618-48ac-aa10-35413e185283.png)
 
 Accuracy Score: 0.51
 Precision Score for high risk loans: 0.01
@@ -60,7 +59,7 @@ Recall (Sensitivity) Score for low risk loans: 0.44
 
 ### - Combination (Over and Under) Sampling/SMOTEEN
 
-Insert SMOTEEN
+![SMOTEEN](https://user-images.githubusercontent.com/106631875/199625397-648afa7f-2b6f-475e-b0d0-6dd595b3b31b.png)
 
 Accuracy Score: 0.63
 Precision Score for high risk loans: 0.01
@@ -70,7 +69,7 @@ Recall (Sensitivity) Score for low risk loans: 0.54
 
 ### Balanced Random Forest Classifier
 
-Insert BalancedRandomForestClassifier
+![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/106631875/199625431-b22dfd76-b4aa-481f-bf2d-b48b81af0e94.png)
 
 Accuracy Score: 0.78
 Precision Score for high risk loans: 0.03
@@ -80,7 +79,7 @@ Recall (Sensitivity) Score for low risk loans: 0.87
 
 ### Easy Ensemble AdaBoost Classifier
 
-Insert EmsembleClassifier
+![EmsembleClassifier](https://user-images.githubusercontent.com/106631875/199625453-54da583c-e7ec-430a-b717-0c766f01485e.png)
 
 Accuracy Score: 0.93
 Precision Score for high risk loans: 0.09
